@@ -8,7 +8,7 @@ public class Typecasting {
 //
 //        System.out.println(b);
         double a = 10.75;
-        int b = (int) a;  // manual conversion
+        long b = (long) a;  // manual conversion
 
         System.out.println(b);
 
